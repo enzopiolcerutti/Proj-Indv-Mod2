@@ -28,7 +28,7 @@ O sistema também armazena o histórico dos dias anteriores e funciona totalment
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
 
-### 2.1. Personas (Semana 01)
+### 2.1. Personas 
 
 Personas são perfis fictícios baseados em dados reais que representam usuários típicos de um sistema. Elas ajudam a entender melhor as motivações, necessidades e dores do público-alvo, facilitando decisões de design e desenvolvimento mais alinhadas com quem realmente vai usar o produto.
 
@@ -39,7 +39,7 @@ Personas são perfis fictícios baseados em dados reais que representam usuário
 </div>
 
 
-### 2.2. User Stories (Semana 01)
+### 2.2. User Stories 
 
 *Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
 
