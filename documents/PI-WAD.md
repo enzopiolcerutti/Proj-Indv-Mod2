@@ -137,3 +137,7 @@ A solução proposta é um sistema que monitora suas tarefas com uma barra de XP
 
 
 ## <a name="c5"></a>5. Referências
+<p>
+1. COOPER, Alan; REIMANN, Robert; CRONIN, David. About Face 3: The Essentials of Interaction Design. Indianapolis: Wiley, 2007.
+</p>
+<br>
