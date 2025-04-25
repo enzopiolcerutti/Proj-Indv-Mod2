@@ -28,7 +28,7 @@ O sistema também armazena o histórico dos dias anteriores e funciona totalment
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
 
-### 2.1. Personas (Semana 01)
+### 2.1. Personas 
 
 Personas são perfis fictícios baseados em dados reais que representam usuários típicos de um sistema. Elas ajudam a entender melhor as motivações, necessidades e dores do público-alvo, facilitando decisões de design e desenvolvimento mais alinhadas com quem realmente vai usar o produto.[¹](#5-referências)
 
@@ -74,8 +74,6 @@ A solução proposta é um sistema que monitora suas tarefas com uma barra de XP
 | **Critério de aceite 2** | CR2: O resumo do dia deve ser gerado após o clique no botão 'Finalizar Dia'. |
 | **Critério de aceite 3** | CR3: O sistema deve apresentar um gráfico de pizza com a proporção de tarefas por categoria. |
 | **Critério de aceite 4** | CR4: Deve ser exibida uma mensagem motivacional com base no desempenho do usuário. |
-
-
 
 ---
 
@@ -139,7 +137,3 @@ A solução proposta é um sistema que monitora suas tarefas com uma barra de XP
 
 
 ## <a name="c5"></a>5. Referências
-<p>
-1. Referência: Cooper, A., Reimann, R., & Cronin, D. (2007). About Face 3: The Essentials of Interaction Design. Wiley.
-</p>
-<br>
