@@ -34,7 +34,7 @@ Personas são perfis fictícios baseados em dados reais que representam usuário
 
 <div align="center">
   <sub>FIGURA X - Persona</sub><br>
-  <img src="assets/persona1.png" width="100%" alt="Persona"><br>
+  <img src="../assets/persona1.png" width="100%" alt="Persona"><br>
   <sup>Fonte: Material produzido pelo autor, 2025</sup>
 </div>
 
