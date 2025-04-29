@@ -16,11 +16,11 @@
 
 ## <a name="c1"></a>1. Introdução 
 
-Este projeto é um gerenciador de tarefas focado no planejamento diário e produtividade pessoal, criado para quem busca algo além de uma lista de afazeres. A proposta é simples, mas inovadora: o sistema não só organiza as tarefas do dia, mas também acompanha o progresso em tempo real e oferece um resumo visual de como o dia foi aproveitado.
+Este projeto é um gerenciador de tarefas focado no planejamento diário e produtividade pessoal, criado para quem busca algo além de uma lista de afazeres. A proposta é simples e inovadora o sistema não só organiza as tarefas do dia, mas também acompanha o progresso em tempo real e oferece um resumo visual de como o dia foi aproveitado.
 
-O principal diferencial é a barra de XP, inspirada em mecânicas de jogos, que é preenchida à medida que as tarefas são concluídas. A lógica é simples: tarefas feitas divididas pelo total de tarefas, com uma barra animada que muda de cor conforme o progresso (de vermelho para verde).
+O principal diferencial é a barra de XP, inspirada em mecânicas de jogos, que é preenchida à medida que as tarefas venham a ser concluídas. A lógica é simples, tarefas feitas divididas pelo total de tarefas, com uma barra animada que muda de cor conforme o progresso (de vermelho para verde).
 
-Ao final do dia, o usuário recebe um gráfico de produtividade, mostrando a distribuição das tarefas por categoria (trabalho, estudos, lazer) e uma frase motivacional baseada no desempenho. Isso ajuda a entender os hábitos diários e a planejar melhor os próximos dias.
+Ao final do dia, o usuário recebe um gráfico de produtividade, mostrando a distribuição das tarefas por categoria (trabalho, estudos, lazer) e uma frase motivacional baseada no seu desempenho daquele dia. Isso ajuda a entender os hábitos diários e a planejar melhor os próximos dias.
 
 O sistema também armazena o histórico dos dias anteriores e funciona totalmente no navegador, utilizando tecnologias como HTML, CSS, JavaScript e armazenamento local. A proposta é uma solução prática, leve e com um toque de gamificação, tornando a organização do dia a dia mais envolvente.
 
